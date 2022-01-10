@@ -2,6 +2,9 @@
 WHAT:
 This project creates a text-based Holiday Manager that allows the user to store and modify a list of holidays and save this list as a JSON file. Techniques included in this project include: file i/o, classes, lambda, webscraping, API usage.
 
+REQUIREMENTS:
+This application was created using Python version 3.9.7 and bs4 version 4.10.0. It may not function properly with older versions. 
+
 MAINTENANCE:
 This was created for an assignment and will likely not be updated after 1/10/2022.
 

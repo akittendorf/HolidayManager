@@ -1,0 +1,8 @@
+.------.
+| Menu |
+'------'
+1. add a holiday
+2. remove a holiday
+3. save holiday list
+4. view holidays
+5. exit

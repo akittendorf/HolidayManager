@@ -1,0 +1,23 @@
+Objective: Create text-based application to track holidays and weather
+
+Functionality:
+1. Familiarize self with holiday_startercode.py
+	understand what's provided and what's needed
+		base classes are provided
+		NEEDED:
+			validate date parameters to be datetime objects
+				-> __new__
+			
+2. Familiarize self with data sources to understand object architectures:
+	https://www.timeanddate.com/holidays/us/ <- webscrape
+		holiday information found in <table id="holidays-table">
+	https://rapidapi.com/community/api/open-weather-map <- API
+   Modify objects as needed
+3. Retrieve necessary data through webscraping and API requests
+4. Instantiate classes with retrieved data
+
+UI:
+1. use print statements and inputs to allow user to interact with UI screens
+2. call appropriate functions from Functionality above
+
+	

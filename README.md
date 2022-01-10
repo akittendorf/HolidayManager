@@ -6,9 +6,19 @@ MAINTENANCE:
 This was created for an assignment and will likely not be updated after 1/10/2022.
 
 REPOSITORY FILES:
-README.md       plan.txt    startercode.py      Holiday.py          scraping.py         main.py         listHolidays.json
-.gitignore                  holidays.json       HolidayList.py      weather.py          menuText.txt
-                                                                                        uiFunctions.py
+README.md                 
+.gitignore
+plan.txt    
+startercode.py    
+ holidays.json
+ Holiday.py
+ HolidayList.py
+ scraping.py
+ weather.py
+ main.py
+ menuText.txt
+ uiFunctions.py
+ listHolidays.json               
 
 MODULES USED:
 bs4
